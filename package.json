@@ -2,9 +2,10 @@
   "name": "cb",
   "version": "1.0.0",
   "description": "site de teste",
-  "main": "produtosweb.js",
+  "main": "app.js",
   "scripts": {
-    "start": "set NODE_ENV='test' node node_modules/mocha/bin/mocha",
+    
+    "start": "node app",
     "test": "mocha"
   },
   "author": "Rai",
